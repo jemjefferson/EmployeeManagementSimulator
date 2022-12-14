@@ -1,0 +1,97 @@
+C:\Users\200158214\OneDrive - Northcentral Technical College\Courses\Spring 2022\OOD\C\Final Project\EmployeeManagementSimulator\bin\Debug\EmployeeManagementSimulator.exe.config
+C:\Users\200158214\OneDrive - Northcentral Technical College\Courses\Spring 2022\OOD\C\Final Project\EmployeeManagementSimulator\bin\Debug\EmployeeManagementSimulator.exe
+C:\Users\200158214\OneDrive - Northcentral Technical College\Courses\Spring 2022\OOD\C\Final Project\EmployeeManagementSimulator\bin\Debug\EmployeeManagementSimulator.pdb
+C:\Users\200158214\OneDrive - Northcentral Technical College\Courses\Spring 2022\OOD\C\Final Project\EmployeeManagementSimulator\obj\Debug\EmployeeManagementSimulator.csprojAssemblyReference.cache
+C:\Users\200158214\OneDrive - Northcentral Technical College\Courses\Spring 2022\OOD\C\Final Project\EmployeeManagementSimulator\obj\Debug\MainWindow.g.cs
+C:\Users\200158214\OneDrive - Northcentral Technical College\Courses\Spring 2022\OOD\C\Final Project\EmployeeManagementSimulator\obj\Debug\App.g.cs
+C:\Users\200158214\OneDrive - Northcentral Technical College\Courses\Spring 2022\OOD\C\Final Project\EmployeeManagementSimulator\obj\Debug\EmployeeManagementSimulator_MarkupCompile.cache
+C:\Users\200158214\OneDrive - Northcentral Technical College\Courses\Spring 2022\OOD\C\Final Project\EmployeeManagementSimulator\obj\Debug\EmployeeManagementSimulator_MarkupCompile.lref
+C:\Users\200158214\OneDrive - Northcentral Technical College\Courses\Spring 2022\OOD\C\Final Project\EmployeeManagementSimulator\obj\Debug\MainWindow.baml
+C:\Users\200158214\OneDrive - Northcentral Technical College\Courses\Spring 2022\OOD\C\Final Project\EmployeeManagementSimulator\obj\Debug\EmployeeManagementSimulator.g.resources
+C:\Users\200158214\OneDrive - Northcentral Technical College\Courses\Spring 2022\OOD\C\Final Project\EmployeeManagementSimulator\obj\Debug\EmployeeManagementSimulator.Properties.Resources.resources
+C:\Users\200158214\OneDrive - Northcentral Technical College\Courses\Spring 2022\OOD\C\Final Project\EmployeeManagementSimulator\obj\Debug\EmployeeManagementSimulator.csproj.GenerateResource.cache
+C:\Users\200158214\OneDrive - Northcentral Technical College\Courses\Spring 2022\OOD\C\Final Project\EmployeeManagementSimulator\obj\Debug\EmployeeManagementSimulator.csproj.CoreCompileInputs.cache
+C:\Users\200158214\OneDrive - Northcentral Technical College\Courses\Spring 2022\OOD\C\Final Project\EmployeeManagementSimulator\obj\Debug\EmployeeManagementSimulator.exe
+C:\Users\200158214\OneDrive - Northcentral Technical College\Courses\Spring 2022\OOD\C\Final Project\EmployeeManagementSimulator\obj\Debug\EmployeeManagementSimulator.pdb
+C:\Users\200158214\OneDrive - Northcentral Technical College\Courses\Spring 2022\OOD\C\Final Project\EmployeeManagementSimulator\obj\Debug\EmployeeWindow.g.cs
+C:\Users\200158214\OneDrive - Northcentral Technical College\Courses\Spring 2022\OOD\C\Final Project\EmployeeManagementSimulator\obj\Debug\EmployeeWindow.baml
+C:\Users\200158214\OneDrive - Northcentral Technical College\Courses\Spring 2022\OOD\C\Final Project\EmployeeManagementSimulator 2\bin\Debug\EmployeeManagementSimulator.exe.config
+C:\Users\200158214\OneDrive - Northcentral Technical College\Courses\Spring 2022\OOD\C\Final Project\EmployeeManagementSimulator 2\bin\Debug\EmployeeManagementSimulator.exe
+C:\Users\200158214\OneDrive - Northcentral Technical College\Courses\Spring 2022\OOD\C\Final Project\EmployeeManagementSimulator 2\bin\Debug\EmployeeManagementSimulator.pdb
+C:\Users\200158214\OneDrive - Northcentral Technical College\Courses\Spring 2022\OOD\C\Final Project\EmployeeManagementSimulator 2\obj\Debug\EmployeeManagementSimulator.csprojAssemblyReference.cache
+C:\Users\200158214\OneDrive - Northcentral Technical College\Courses\Spring 2022\OOD\C\Final Project\EmployeeManagementSimulator 2\obj\Debug\EmployeeWindow.g.cs
+C:\Users\200158214\OneDrive - Northcentral Technical College\Courses\Spring 2022\OOD\C\Final Project\EmployeeManagementSimulator 2\obj\Debug\MainWindow.g.cs
+C:\Users\200158214\OneDrive - Northcentral Technical College\Courses\Spring 2022\OOD\C\Final Project\EmployeeManagementSimulator 2\obj\Debug\App.g.cs
+C:\Users\200158214\OneDrive - Northcentral Technical College\Courses\Spring 2022\OOD\C\Final Project\EmployeeManagementSimulator 2\obj\Debug\EmployeeManagementSimulator_MarkupCompile.cache
+C:\Users\200158214\OneDrive - Northcentral Technical College\Courses\Spring 2022\OOD\C\Final Project\EmployeeManagementSimulator 2\obj\Debug\EmployeeManagementSimulator_MarkupCompile.lref
+C:\Users\200158214\OneDrive - Northcentral Technical College\Courses\Spring 2022\OOD\C\Final Project\EmployeeManagementSimulator 2\obj\Debug\EmployeeWindow.baml
+C:\Users\200158214\OneDrive - Northcentral Technical College\Courses\Spring 2022\OOD\C\Final Project\EmployeeManagementSimulator 2\obj\Debug\MainWindow.baml
+C:\Users\200158214\OneDrive - Northcentral Technical College\Courses\Spring 2022\OOD\C\Final Project\EmployeeManagementSimulator 2\obj\Debug\EmployeeManagementSimulator.g.resources
+C:\Users\200158214\OneDrive - Northcentral Technical College\Courses\Spring 2022\OOD\C\Final Project\EmployeeManagementSimulator 2\obj\Debug\EmployeeManagementSimulator.Properties.Resources.resources
+C:\Users\200158214\OneDrive - Northcentral Technical College\Courses\Spring 2022\OOD\C\Final Project\EmployeeManagementSimulator 2\obj\Debug\EmployeeManagementSimulator.csproj.GenerateResource.cache
+C:\Users\200158214\OneDrive - Northcentral Technical College\Courses\Spring 2022\OOD\C\Final Project\EmployeeManagementSimulator 2\obj\Debug\EmployeeManagementSimulator.csproj.CoreCompileInputs.cache
+C:\Users\200158214\OneDrive - Northcentral Technical College\Courses\Spring 2022\OOD\C\Final Project\EmployeeManagementSimulator 2\obj\Debug\EmployeeManagementSimulator.exe
+C:\Users\200158214\OneDrive - Northcentral Technical College\Courses\Spring 2022\OOD\C\Final Project\EmployeeManagementSimulator 2\obj\Debug\EmployeeManagementSimulator.pdb
+C:\Users\200158214\OneDrive - Northcentral Technical College\Courses\Spring 2022\OOD\C\Final Project\EmployeeManagementSimulator 3\bin\Debug\EmployeeManagementSimulator.exe.config
+C:\Users\200158214\OneDrive - Northcentral Technical College\Courses\Spring 2022\OOD\C\Final Project\EmployeeManagementSimulator 3\bin\Debug\EmployeeManagementSimulator.exe
+C:\Users\200158214\OneDrive - Northcentral Technical College\Courses\Spring 2022\OOD\C\Final Project\EmployeeManagementSimulator 3\bin\Debug\EmployeeManagementSimulator.pdb
+C:\Users\200158214\OneDrive - Northcentral Technical College\Courses\Spring 2022\OOD\C\Final Project\EmployeeManagementSimulator 3\obj\Debug\EmployeeWindow.g.cs
+C:\Users\200158214\OneDrive - Northcentral Technical College\Courses\Spring 2022\OOD\C\Final Project\EmployeeManagementSimulator 3\obj\Debug\MainWindow.g.cs
+C:\Users\200158214\OneDrive - Northcentral Technical College\Courses\Spring 2022\OOD\C\Final Project\EmployeeManagementSimulator 3\obj\Debug\App.g.cs
+C:\Users\200158214\OneDrive - Northcentral Technical College\Courses\Spring 2022\OOD\C\Final Project\EmployeeManagementSimulator 3\obj\Debug\EmployeeManagementSimulator_MarkupCompile.cache
+C:\Users\200158214\OneDrive - Northcentral Technical College\Courses\Spring 2022\OOD\C\Final Project\EmployeeManagementSimulator 3\obj\Debug\EmployeeManagementSimulator_MarkupCompile.lref
+C:\Users\200158214\OneDrive - Northcentral Technical College\Courses\Spring 2022\OOD\C\Final Project\EmployeeManagementSimulator 3\obj\Debug\EmployeeWindow.baml
+C:\Users\200158214\OneDrive - Northcentral Technical College\Courses\Spring 2022\OOD\C\Final Project\EmployeeManagementSimulator 3\obj\Debug\MainWindow.baml
+C:\Users\200158214\OneDrive - Northcentral Technical College\Courses\Spring 2022\OOD\C\Final Project\EmployeeManagementSimulator 3\obj\Debug\EmployeeManagementSimulator.g.resources
+C:\Users\200158214\OneDrive - Northcentral Technical College\Courses\Spring 2022\OOD\C\Final Project\EmployeeManagementSimulator 3\obj\Debug\EmployeeManagementSimulator.Properties.Resources.resources
+C:\Users\200158214\OneDrive - Northcentral Technical College\Courses\Spring 2022\OOD\C\Final Project\EmployeeManagementSimulator 3\obj\Debug\EmployeeManagementSimulator.csproj.GenerateResource.cache
+C:\Users\200158214\OneDrive - Northcentral Technical College\Courses\Spring 2022\OOD\C\Final Project\EmployeeManagementSimulator 3\obj\Debug\EmployeeManagementSimulator.csproj.CoreCompileInputs.cache
+C:\Users\200158214\OneDrive - Northcentral Technical College\Courses\Spring 2022\OOD\C\Final Project\EmployeeManagementSimulator 3\obj\Debug\EmployeeManagementSimulator.exe
+C:\Users\200158214\OneDrive - Northcentral Technical College\Courses\Spring 2022\OOD\C\Final Project\EmployeeManagementSimulator 3\obj\Debug\EmployeeManagementSimulator.pdb
+C:\Users\200158214\OneDrive - Northcentral Technical College\Courses\Spring 2022\OOD\C\Final Project\EmployeeManagementSimulator 3\obj\Debug\Message.g.cs
+C:\Users\200158214\OneDrive - Northcentral Technical College\Courses\Spring 2022\OOD\C\Final Project\EmployeeManagementSimulator 3\obj\Debug\Message.baml
+C:\Users\200158214\OneDrive - Northcentral Technical College\Courses\Spring 2022\OOD\C\Final Project\EmployeeManagementSimulator 3\obj\Debug\ExpandMessage.g.cs
+C:\Users\200158214\OneDrive - Northcentral Technical College\Courses\Spring 2022\OOD\C\Final Project\EmployeeManagementSimulator 3\obj\Debug\ExpandMessage.baml
+C:\Users\200158214\OneDrive - Northcentral Technical College\Courses\Spring 2022\OOD\C\Final Project\EmployeeManagementSimulator 3\obj\Debug\EmployeeManagementSimulator.csprojAssemblyReference.cache
+C:\Users\200158214\OneDrive - Northcentral Technical College\Courses\Spring 2022\OOD\C\Final Project\Final Project (Employee Management Simulator) Jefferson\bin\Debug\EmployeeManagementSimulator.exe.config
+C:\Users\200158214\OneDrive - Northcentral Technical College\Courses\Spring 2022\OOD\C\Final Project\Final Project (Employee Management Simulator) Jefferson\bin\Debug\EmployeeManagementSimulator.exe
+C:\Users\200158214\OneDrive - Northcentral Technical College\Courses\Spring 2022\OOD\C\Final Project\Final Project (Employee Management Simulator) Jefferson\bin\Debug\EmployeeManagementSimulator.pdb
+C:\Users\200158214\OneDrive - Northcentral Technical College\Courses\Spring 2022\OOD\C\Final Project\Final Project (Employee Management Simulator) Jefferson\obj\Debug\App.g.cs
+C:\Users\200158214\OneDrive - Northcentral Technical College\Courses\Spring 2022\OOD\C\Final Project\Final Project (Employee Management Simulator) Jefferson\obj\Debug\EmployeeManagementSimulator_MarkupCompile.cache
+C:\Users\200158214\OneDrive - Northcentral Technical College\Courses\Spring 2022\OOD\C\Final Project\Final Project (Employee Management Simulator) Jefferson\obj\Debug\EmployeeManagementSimulator_MarkupCompile.lref
+C:\Users\200158214\OneDrive - Northcentral Technical College\Courses\Spring 2022\OOD\C\Final Project\Final Project (Employee Management Simulator) Jefferson\obj\Debug\EmployeeManagementSimulator.g.resources
+C:\Users\200158214\OneDrive - Northcentral Technical College\Courses\Spring 2022\OOD\C\Final Project\Final Project (Employee Management Simulator) Jefferson\obj\Debug\EmployeeManagementSimulator.Properties.Resources.resources
+C:\Users\200158214\OneDrive - Northcentral Technical College\Courses\Spring 2022\OOD\C\Final Project\Final Project (Employee Management Simulator) Jefferson\obj\Debug\EmployeeManagementSimulator.csproj.GenerateResource.cache
+C:\Users\200158214\OneDrive - Northcentral Technical College\Courses\Spring 2022\OOD\C\Final Project\Final Project (Employee Management Simulator) Jefferson\obj\Debug\EmployeeManagementSimulator.csproj.CoreCompileInputs.cache
+C:\Users\200158214\OneDrive - Northcentral Technical College\Courses\Spring 2022\OOD\C\Final Project\Final Project (Employee Management Simulator) Jefferson\obj\Debug\EmployeeManagementSimulator.exe
+C:\Users\200158214\OneDrive - Northcentral Technical College\Courses\Spring 2022\OOD\C\Final Project\Final Project (Employee Management Simulator) Jefferson\obj\Debug\EmployeeManagementSimulator.pdb
+C:\Users\200158214\OneDrive - Northcentral Technical College\Courses\Spring 2022\OOD\C\Final Project\Final Project (Employee Management Simulator) Jefferson\obj\Debug\Windows\EmployeeWindow.g.cs
+C:\Users\200158214\OneDrive - Northcentral Technical College\Courses\Spring 2022\OOD\C\Final Project\Final Project (Employee Management Simulator) Jefferson\obj\Debug\Windows\ExpandMessage.g.cs
+C:\Users\200158214\OneDrive - Northcentral Technical College\Courses\Spring 2022\OOD\C\Final Project\Final Project (Employee Management Simulator) Jefferson\obj\Debug\Windows\Message.g.cs
+C:\Users\200158214\OneDrive - Northcentral Technical College\Courses\Spring 2022\OOD\C\Final Project\Final Project (Employee Management Simulator) Jefferson\obj\Debug\Windows\EmployeeWindow.baml
+C:\Users\200158214\OneDrive - Northcentral Technical College\Courses\Spring 2022\OOD\C\Final Project\Final Project (Employee Management Simulator) Jefferson\obj\Debug\Windows\ExpandMessage.baml
+C:\Users\200158214\OneDrive - Northcentral Technical College\Courses\Spring 2022\OOD\C\Final Project\Final Project (Employee Management Simulator) Jefferson\obj\Debug\Windows\Message.baml
+C:\Users\200158214\OneDrive - Northcentral Technical College\Courses\Spring 2022\OOD\C\Final Project\Final Project (Employee Management Simulator) Jefferson\obj\Debug\MainWindow.g.cs
+C:\Users\200158214\OneDrive - Northcentral Technical College\Courses\Spring 2022\OOD\C\Final Project\Final Project (Employee Management Simulator) Jefferson\obj\Debug\MainWindow.baml
+C:\Users\200158214\OneDrive - Northcentral Technical College\Courses\Spring 2022\OOD\C\Final Project\Final Project (Employee Management Simulator) Jefferson\obj\Debug\EmployeeManagementSimulator.csprojAssemblyReference.cache
+C:\Users\200158214\Desktop\Projects\Design Pattern Project (Employee Management Simulator) Jefferson\bin\Debug\EmployeeManagementSimulator.exe.config
+C:\Users\200158214\Desktop\Projects\Design Pattern Project (Employee Management Simulator) Jefferson\bin\Debug\EmployeeManagementSimulator.exe
+C:\Users\200158214\Desktop\Projects\Design Pattern Project (Employee Management Simulator) Jefferson\bin\Debug\EmployeeManagementSimulator.pdb
+C:\Users\200158214\Desktop\Projects\Design Pattern Project (Employee Management Simulator) Jefferson\obj\Debug\EmployeeManagementSimulator.csproj.AssemblyReference.cache
+C:\Users\200158214\Desktop\Projects\Design Pattern Project (Employee Management Simulator) Jefferson\obj\Debug\Windows\EmployeeWindow.g.cs
+C:\Users\200158214\Desktop\Projects\Design Pattern Project (Employee Management Simulator) Jefferson\obj\Debug\Windows\ExpandMessage.g.cs
+C:\Users\200158214\Desktop\Projects\Design Pattern Project (Employee Management Simulator) Jefferson\obj\Debug\MainWindow.g.cs
+C:\Users\200158214\Desktop\Projects\Design Pattern Project (Employee Management Simulator) Jefferson\obj\Debug\Windows\Message.g.cs
+C:\Users\200158214\Desktop\Projects\Design Pattern Project (Employee Management Simulator) Jefferson\obj\Debug\App.g.cs
+C:\Users\200158214\Desktop\Projects\Design Pattern Project (Employee Management Simulator) Jefferson\obj\Debug\EmployeeManagementSimulator_MarkupCompile.cache
+C:\Users\200158214\Desktop\Projects\Design Pattern Project (Employee Management Simulator) Jefferson\obj\Debug\EmployeeManagementSimulator_MarkupCompile.lref
+C:\Users\200158214\Desktop\Projects\Design Pattern Project (Employee Management Simulator) Jefferson\obj\Debug\Windows\EmployeeWindow.baml
+C:\Users\200158214\Desktop\Projects\Design Pattern Project (Employee Management Simulator) Jefferson\obj\Debug\Windows\ExpandMessage.baml
+C:\Users\200158214\Desktop\Projects\Design Pattern Project (Employee Management Simulator) Jefferson\obj\Debug\MainWindow.baml
+C:\Users\200158214\Desktop\Projects\Design Pattern Project (Employee Management Simulator) Jefferson\obj\Debug\Windows\Message.baml
+C:\Users\200158214\Desktop\Projects\Design Pattern Project (Employee Management Simulator) Jefferson\obj\Debug\EmployeeManagementSimulator.g.resources
+C:\Users\200158214\Desktop\Projects\Design Pattern Project (Employee Management Simulator) Jefferson\obj\Debug\EmployeeManagementSimulator.Properties.Resources.resources
+C:\Users\200158214\Desktop\Projects\Design Pattern Project (Employee Management Simulator) Jefferson\obj\Debug\EmployeeManagementSimulator.csproj.GenerateResource.cache
+C:\Users\200158214\Desktop\Projects\Design Pattern Project (Employee Management Simulator) Jefferson\obj\Debug\EmployeeManagementSimulator.csproj.CoreCompileInputs.cache
+C:\Users\200158214\Desktop\Projects\Design Pattern Project (Employee Management Simulator) Jefferson\obj\Debug\EmployeeManagementSimulator.exe
+C:\Users\200158214\Desktop\Projects\Design Pattern Project (Employee Management Simulator) Jefferson\obj\Debug\EmployeeManagementSimulator.pdb

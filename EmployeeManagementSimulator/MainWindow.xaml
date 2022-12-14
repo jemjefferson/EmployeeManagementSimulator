@@ -1,0 +1,28 @@
+﻿<Window x:Class="EmployeeManagementSimulator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EmployeeManagementSimulator"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="505" Width="1079">
+    <Grid Margin="0,0,0.333,0">
+        <ListBox x:Name="employeeListBox" HorizontalAlignment="Left" Height="346" Margin="169,41,0,0" VerticalAlignment="Top" Width="319" MouseDoubleClick="employeeListBox_MouseDoubleClick" SelectionChanged="employeeListBox_SelectionChanged"/>
+        <Button x:Name="removeEmployeeButton" Content="Remove Employee" HorizontalAlignment="Left" Margin="31,360,0,0" VerticalAlignment="Top" Width="115" Height="27" Click="removeEmployeeButton_Click"/>
+        <Button x:Name="addEmployeeButton" Content="Add Employee" HorizontalAlignment="Left" Margin="31,262,0,0" VerticalAlignment="Top" Width="115" Height="27" Click="addEmployeeButton_Click"/>
+        <Button x:Name="editEmployeeButton" Content="Edit Employee" HorizontalAlignment="Left" Margin="31,328,0,0" VerticalAlignment="Top" Width="115" Height="27" Click="editEmployeeButton_Click"/>
+        <Button x:Name="clockInButton" Content="Clock In" HorizontalAlignment="Left" Margin="31,137,0,0" VerticalAlignment="Top" Width="115" Click="clockInButton_Click" Height="28"/>
+        <Button x:Name="clockOutButton" Content="Clock Out" HorizontalAlignment="Left" Margin="31,170,0,0" VerticalAlignment="Top" Width="115" Click="clockOutButton_Click" Height="26"/>
+        <ComboBox x:Name="jobTitleComboBox" HorizontalAlignment="Left" Height="26" Margin="31,231,0,0" VerticalAlignment="Top" Width="115"/>
+        <ListBox x:Name="messageListBox" HorizontalAlignment="Left" Height="346" Margin="657,41,0,0" VerticalAlignment="Top" Width="357" MouseDoubleClick="messageListBox_MouseDoubleClick"/>
+        <Label x:Name="messagesLabel" Content="Messages" Margin="657,-1,17.667,430" VerticalAlignment="Center" FontSize="20" FontWeight="Bold" Height="47"/>
+        <Button x:Name="newMessageButton" Content="New Message" HorizontalAlignment="Left" Margin="511,137,0,0" VerticalAlignment="Top" Width="128" Height="28" Click="newMessageButton_Click"/>
+        <Label x:Name="employeesLabel" Content="Employees" HorizontalAlignment="Left" Margin="169,-1,0,414" FontSize="20" FontWeight="Bold" VerticalAlignment="Center" Height="63"/>
+        <Button x:Name="removeSubscribersButton" Content="Unsubscribe All Employees" HorizontalAlignment="Left" Margin="741,405,0,0" VerticalAlignment="Top" Width="200" Height="28" Click="removeSubscribersButton_Click"/>
+        <Button x:Name="deleteMessageButton" Content="Delete Message" HorizontalAlignment="Left" Margin="511,170,0,0" VerticalAlignment="Top" Width="128" Height="28" Click="deleteMessageButton_Click"/>
+        <Button x:Name="subscribeEmployeeButton" Content="Subscribe Employee" HorizontalAlignment="Left" Margin="511,328,0,0" VerticalAlignment="Top" Width="128" Height="26" Click="subscribeEmployeeButton_Click"/>
+        <Button x:Name="unsubscribeEmployeeButton" Content="Unsubscribe Employee" HorizontalAlignment="Left" Margin="511,360,0,0" VerticalAlignment="Top" Width="128" Height="26" Click="unsubscribeEmployeeButton_Click"/>
+        <Image HorizontalAlignment="Left" Height="100" Margin="31,10,0,0" VerticalAlignment="Top" Width="100" Source="ntc_college.jpeg"/>
+
+    </Grid>
+</Window>
