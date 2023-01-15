@@ -22,7 +22,7 @@
         <Button x:Name="deleteMessageButton" Content="Delete Message" HorizontalAlignment="Left" Margin="511,170,0,0" VerticalAlignment="Top" Width="128" Height="28" Click="deleteMessageButton_Click"/>
         <Button x:Name="subscribeEmployeeButton" Content="Subscribe Employee" HorizontalAlignment="Left" Margin="511,328,0,0" VerticalAlignment="Top" Width="128" Height="26" Click="subscribeEmployeeButton_Click"/>
         <Button x:Name="unsubscribeEmployeeButton" Content="Unsubscribe Employee" HorizontalAlignment="Left" Margin="511,360,0,0" VerticalAlignment="Top" Width="128" Height="26" Click="unsubscribeEmployeeButton_Click"/>
-        <Image HorizontalAlignment="Left" Height="100" Margin="31,10,0,0" VerticalAlignment="Top" Width="100" Source="em.png"/>
+        <Image HorizontalAlignment="Left" Height="141" Margin="20,6,0,0" VerticalAlignment="Top" Width="138" Source="em.png"/>
 
     </Grid>
 </Window>
