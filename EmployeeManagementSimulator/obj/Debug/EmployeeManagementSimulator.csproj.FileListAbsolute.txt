@@ -137,3 +137,7 @@ C:\Users\jemje\OneDrive\Desktop\EM\EmployeeManagementSimulator\EmployeeManagemen
 C:\Users\jemje\OneDrive\Desktop\EM\EmployeeManagementSimulator\EmployeeManagementSimulator\obj\Debug\EmployeeManagementSimulator.csproj.CoreCompileInputs.cache
 C:\Users\jemje\OneDrive\Desktop\EM\EmployeeManagementSimulator\EmployeeManagementSimulator\obj\Debug\EmployeeManagementSimulator.exe
 C:\Users\jemje\OneDrive\Desktop\EM\EmployeeManagementSimulator\EmployeeManagementSimulator\obj\Debug\EmployeeManagementSimulator.pdb
+C:\Users\jemje\OneDrive\Desktop\EM\EmployeeManagementSimulator\EmployeeManagementSimulator\bin\Debug\EmployeeManagementSimulator.exe.manifest
+C:\Users\jemje\OneDrive\Desktop\EM\EmployeeManagementSimulator\EmployeeManagementSimulator\bin\Debug\EmployeeManagementSimulator.application
+C:\Users\jemje\OneDrive\Desktop\EM\EmployeeManagementSimulator\EmployeeManagementSimulator\obj\Debug\EmployeeManagementSimulator.exe.manifest
+C:\Users\jemje\OneDrive\Desktop\EM\EmployeeManagementSimulator\EmployeeManagementSimulator\obj\Debug\EmployeeManagementSimulator.application
